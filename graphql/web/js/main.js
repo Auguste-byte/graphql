@@ -1,7 +1,5 @@
 import { Router } from "./router.js";
 
-
-
 const logname = document.getElementsByName('Username')[0];
 const logpass = document.getElementsByName('password')[0];
 const Error = document.getElementById('Error')
